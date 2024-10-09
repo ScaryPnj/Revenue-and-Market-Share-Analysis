@@ -33,3 +33,4 @@ This project focuses on analyzing historical hotel performance data for AtliQ Gr
 ## Project Link - 
 - I have attached the snapshot of the report, however, here is my Power BI link that Presents this work:
 - https://app.powerbi.com/view?r=eyJrIjoiNGRkNWYyNTMtOTc1Yy00Y2ZmLWE5ZGQtOTYzN2RiY2MwMzAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+- ![revenue dashboard]()
