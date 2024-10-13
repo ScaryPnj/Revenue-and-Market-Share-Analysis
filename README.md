@@ -28,7 +28,6 @@ This project focuses on analyzing historical hotel performance data for AtliQ Gr
 ## Technologies & Tools
 - **Data Tools:** Excel, Power BI
 - **Database:** MySQL
-- **Languages:** SQL, Python
   
 ## Project Link - 
 - I have attached the snapshot of the report, however, here is my Power BI link that Presents this work:
